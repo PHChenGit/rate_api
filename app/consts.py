@@ -1,0 +1,4 @@
+CURRENCY_USD='usd'
+CURRENCY_JPY='jpy'
+CURRENCY_RMB='rmb'
+CURRENCY_NTD='ntd'

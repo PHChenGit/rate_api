@@ -1,0 +1,8 @@
+Flask==2.3.2
+uWSGI==2.0.21
+mysql-connector-python==8.1.0
+redis==5.0.0
+flask-sqlalchemy==3.1.1
+pymysql==1.1.1
+python-dotenv==1.0.1
+flask-migrate==4.0.7
